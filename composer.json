@@ -1,0 +1,8 @@
+{
+    "name": "php-test/composer-yaml",
+    "description": "Tool to convert from composer.yml to composer.json.",
+    "license": "MIT",
+    "require": {
+        "composer/composer": "1.0.*@dev"
+    }
+}
